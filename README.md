@@ -1,10 +1,22 @@
-# Hello, World! 👋
+Hey there! 👋 I'm Nikhil Rai, a passionate coder diving into the realms of web development, DSA, and beyond!
 
-I'm Nikhil, a passionate C++ rookie developer from Delhi(India). Welcome to my GitHub profile!
+About Me
+Name: Nikhil Rai
+Interests: Web Dev, DSA, Coding
+Location: Delhi
+Skills Snapshot
+🌐 Web Dev: HTML, CSS, JS, React.js(comming soon)
+🚀 Languages: HTML, CSS, JavaScript, Python, C++
+🔍 Databases: MongoDB, MySQL
+⚙️ Tools: GitHub
+What to Expect
+🛠️ Cool web projects
+🤖 DSA implementations
+💡 Coding challenges and solutions
 
-## About Me
+Let's Connect!
+📧 n4717423@gmail.com
+🔗 Nikhil Rai
+🐦 [Comming soon]
 
-- 💻 I am deeply immersed in the world of C++ programming.
-- 🌱 I'm currently exploring new horizons in Computer Science Engneering.
-- 📫 How to reach me: n2005rai@gmail.com
-
+Thanks for dropping by! Let's code something awesome together! 😄🚀
