@@ -5,7 +5,7 @@ Name: Nikhil Rai
 Interests: Web Dev, DSA, Coding
 Location: Delhi
 Skills Snapshot
-🌐 Web Dev: HTML, CSS, JS, React.js(comming soon)
+🌐 Web Dev: HTML, CSS, JS, React.js
 🚀 Languages: HTML, CSS, JavaScript, Python, C++
 🔍 Databases: MongoDB, MySQL
 ⚙️ Tools: GitHub
