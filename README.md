@@ -15,7 +15,7 @@ What to Expect
 💡 Coding challenges and solutions
 
 Let's Connect!
-📧 n4717423@gmail.com
+📧 n2005rai@gmail.com
 🔗 Nikhil Rai
 🐦 [Comming soon]
 
