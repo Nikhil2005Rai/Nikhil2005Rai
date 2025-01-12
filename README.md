@@ -7,8 +7,8 @@ Location: Delhi
 Skills Snapshot
 🌐 Web Dev: HTML, CSS, JS, React.js
 🚀 Languages: HTML, CSS, JavaScript, Python, C++
-🔍 Databases: MongoDB, MySQL
-⚙️ Tools: GitHub
+🔍 Databases: MongoDB, Postgress
+⚙️ Tools: Git, GitHub
 What to Expect
 🛠️ Cool web projects
 🤖 DSA implementations
@@ -17,6 +17,5 @@ What to Expect
 Let's Connect!
 📧 n2005rai@gmail.com
 🔗 Nikhil Rai
-🐦 [Comming soon]
 
 Thanks for dropping by! Let's code something awesome together! 😄🚀
